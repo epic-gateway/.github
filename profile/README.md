@@ -1,9 +1,9 @@
 
-# EPIC is an external API Gateway  
+# EPIC is an external API Gateway Platform
 
 It is designed for use with Kubernetes but can also be used with Linux hosts.
 
-By external, the k8s cluster that runs the Gateway consisting of Envoy proxy instances is external to the k8s clusters it serves.
+By external, the k8s cluster that runs the uService Gateways consisting of Envoy proxy instances is external to the k8s clusters it serves.
 
 An external gateway has the benefit of isolation from application and data contained in the cluster.  EPIC also has the ability to share a single gateway over multiple clusters
 allowing application endpoints to be distributed among multiple clusters and hosts.
