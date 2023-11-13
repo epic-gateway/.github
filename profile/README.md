@@ -21,6 +21,6 @@ The key components of the EPIC platform are:
 3. Linux Gateway Controller.  This controller uses the same model as the Gateway API but does not require Kubernetes
 4. Gateway Service Manager. A User interface that can be used to provide Gateway as a Service.
 
-
-
+# Trying the EPIC platform 
+To get started try the [dev-test-environment](https://github.com/epic-gateway/dev-test-environment)  It uses Vagrant and Ansible to install a gateway and node cluster using a couple of commmands.
 
