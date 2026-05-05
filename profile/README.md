@@ -28,4 +28,4 @@ The following documentation was created when we had this deployed as a SaaS Plat
 # Trying the EPIC platform 
 To get started try the [dev-test-environment](https://github.com/epic-gateway/dev-test-environment)  It uses Vagrant and Ansible to install a gateway and node cluster using a couple of commmands.
 
-# It has been some years since the project has been updated.  Contact info@acnodal.io if your interested in this.
+### It has been some years since the project has been updated.  Contact info@acnodal.io if your interested in this.
